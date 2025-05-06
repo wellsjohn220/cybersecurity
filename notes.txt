@@ -1,1 +1,16 @@
 https://www.w3schools.com/colors/colors_gradient.asp
+
+
+https://www.w3schools.com/icons/icons_reference.asp             //icons
+
+https://www.w3schools.com/colors/colors_gradient.asp            //color refer
+
+https://www.w3schools.com/bootstrap/bootstrap_grid_basic.asp    //grid control to learn
+
+https://favicon.io/favicon-generator/                           //icon generator
+
+https://www.youtube.com/watch?v=a8Om25FbaJA                     //register to google sheets
+
+https://www.youtube.com/watch?v=p1QU3kLFPdg                     //how to publish your site
+
+https://www.namecheap.com/                                      //buy domain name online
