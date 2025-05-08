@@ -14,3 +14,5 @@ https://www.youtube.com/watch?v=a8Om25FbaJA                     //register to go
 https://www.youtube.com/watch?v=p1QU3kLFPdg                     //how to publish your site
 
 https://www.namecheap.com/                                      //buy domain name online
+
+https://qrfy.com/app/my-qr-codes                                //qr generate
