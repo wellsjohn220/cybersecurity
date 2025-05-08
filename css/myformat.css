@@ -17,3 +17,22 @@
 .copyright {
     background: linear-gradient(to top, #33ccff 0%, #0000cc 100%);
   }
+
+  #load-screen {
+    background: url(../assets/header-back.png);
+    position: fixed;
+    z-index: 10000;
+    top: 0px;
+    width: 100%;
+    height: 1600px;
+  }
+  
+  #loading {
+    width: 500px;
+    height: 500px;
+    margin: 0 auto;
+    background: url(../assets/loader.gif);
+    background-size: 40%;
+    background-repeat: no-repeat;
+    background-position: center;
+  }

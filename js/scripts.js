@@ -70,8 +70,12 @@ form.addEventListener("submit", (e) => {
 });
 
 function generateDate() {
-  let today = new Date().toLocaleDateString("en-GB");
+  let today = new Date().toLocaleDateString("en-GB"); 
+  const currentTime = new Date().toLocaleTimeString();
+  console.log("Time loaded " + currentTime);
   console.log("Date has been loaded " + today);
-  document.getElementById("reg").value = today;
+  document.getElementById("reg").value = currentTime;
+  document.getElementById("reg2").value = today;
   return true;
 }
+
