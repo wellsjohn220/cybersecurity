@@ -52,7 +52,7 @@ window.addEventListener("DOMContentLoaded", (event) => {
 
 console.log("form script has been loaded");
 const scriptURL =
-  "https://script.google.com/macros/s/AKfycbz8Zwa-L_ZULVLQ6we_MihCS3yUO3kjvqIMxzdArtnew3RimwDF-cc0ZGOgyLm2ie4D/exec";
+  "https://script.google.com/macros/s/AKfycbxmXt99hA8d7ydVlRMgTOvfCq3A5RSJawQhghBwEP3K5po7zSf9r5NZHgoh6OoNjmDQ/exec";
 const form = document.forms["contact-to-google-sheet"];
 const msg = document.getElementById("msg");
 
@@ -70,7 +70,7 @@ form.addEventListener("submit", (e) => {
 });
 
 function generateDate() {
-  let today = new Date().toLocaleDateString("en-GB"); 
+  let today = new Date().toLocaleDateString("en-GB");
   const currentTime = new Date().toLocaleTimeString();
   console.log("Time loaded " + currentTime);
   console.log("Date has been loaded " + today);
@@ -78,4 +78,5 @@ function generateDate() {
   document.getElementById("reg2").value = today;
   return true;
 }
+
 
